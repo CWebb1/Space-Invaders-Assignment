@@ -5,6 +5,7 @@ namespace SpaceInvadersGame
         private Bitmap bufferImage;
         private Graphics bufferGraphics;
         private Graphics graphics;
+        private Controller controller;
 
         public Form1()
         {
